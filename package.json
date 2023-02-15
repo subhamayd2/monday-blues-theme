@@ -2,13 +2,18 @@
   "name": "monday-blues",
   "displayName": "monday-blues",
   "description": "Just a blue theme",
+  "publisher": "aztechcorps",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.75.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "url": "https://github.com/subhamayd2/monday-blues-theme"
+  },
   "contributes": {
     "themes": [
       {
