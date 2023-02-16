@@ -20,6 +20,11 @@
         "label": "Monday blues",
         "uiTheme": "vs-dark",
         "path": "./themes/Monday blues-color-theme.json"
+      },
+      {
+        "label": "Monday blues faded",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blue-faded-color-theme.json"
       }
     ]
   }
